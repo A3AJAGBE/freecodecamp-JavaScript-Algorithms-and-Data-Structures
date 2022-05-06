@@ -4,7 +4,7 @@ This is the compilation of freeCodeCamp required projects in order to get the ce
 
 ## 🛠 Tech Stack
 
-HTML5, CSS3, JavaScript, React, React-Boostrap
+JavaScript
 
   
 ## Projects
